@@ -49,3 +49,7 @@
   info: https://philthompson.me/2021/The-Mandelbrot-set-on-Very-Plotter.html
   gallery: https://philthompson.me/mandelbrot-gallery/
   license: MIT
+
+- live: https://rileyjshaw.com/fractal
+  repo: https://github.com/rileyjshaw/fractal
+  license: GPL-3.0
